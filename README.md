@@ -10,4 +10,4 @@ This website was created to give you quick and easy access to protocols, guideli
 To get started, click on a link on the top of the page, or type something into the search bar.
 
 # Questions?
-Please reach out to TuftsMCInfectionPreventionTeam@tuftsmedicalcenter.org with any questions.
+Please reach out to TuftsMCInfectionPreventionTeam with any questions.
